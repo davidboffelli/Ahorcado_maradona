@@ -3,11 +3,9 @@ package ahorcado_maradona;
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
-import static org.junit.Assert.*;
 
 import java.util.ArrayList;
 import org.junit.*;
-import org.junit.jupiter.*;
 import ahorcado_maradona.GeneradorPalabra;
 import ahorcado_maradona.Juego;
 
